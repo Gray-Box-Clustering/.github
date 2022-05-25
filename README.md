@@ -1,8 +1,9 @@
-#Grey-box clustering
+# Grey-box clustering
 
 Gray-box optimization for clustering algorithms
 
-<p>Papers:</p>
+## Papers
+
 <ul>
   <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-24289-3_52">A Bayesian Information Criterion for Unsupervised Learning Based on an Objective Prior</a></li>
   <li><a href="https://www.researchgate.net/publication/353442609_Entropy_adjustment_for_model_selection_in_automated_clustering">Entropy adjustment for model selection in automated clustering (preprint)</a></li>
